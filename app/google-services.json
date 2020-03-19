@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "852376371364",
+    "firebase_url": "https://chatonly-effea.firebaseio.com",
+    "project_id": "chatonly-effea",
+    "storage_bucket": "chatonly-effea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852376371364:android:697dfd0a6ed954be322631",
+        "android_client_info": {
+          "package_name": "com.myappcompany.hardi.chatonly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852376371364-gpl2aerjstehsacsq9rmck4vd734il6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myappcompany.hardi.chatonly",
+            "certificate_hash": "a36f6824507391e2157305b1247659b88e1c0587"
+          }
+        },
+        {
+          "client_id": "852376371364-fasevjgshcr8l4iogfvt527kb7ln9l6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnOAXM0wTahL9vbujCWqYPxRZHIo1QDsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852376371364-fasevjgshcr8l4iogfvt527kb7ln9l6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
